@@ -12,7 +12,7 @@ Python instalado na máquina
 Poetry instalado na máquina
 
 ### 🔧 Instalação
-1. Instale o Poetry em seu ambiente Python:
+1 - Instale o Poetry em seu ambiente Python:
  
     pip install poetry
    
