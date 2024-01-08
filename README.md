@@ -31,12 +31,12 @@ Para executar o gerador de senha, use o seguinte comando:
 
 ## O programa abrirá uma interface gráfica onde você poderá especificar as opções desejadas para a senha.
 
-Opções Disponíveis
-Site/Software: Nome do site ou software para o qual a senha está sendo gerada.
-E-mail/Usuário: E-mail ou nome de usuário associado à senha.
-Quantidade de caracteres: Escolha o comprimento desejado para a senha.
-Tipos de Caracteres: Selecione os tipos de caracteres desejados (maiúsculas, minúsculas, números, caracteres especiais).
-Após configurar suas opções, clique no botão "Gerar Senha" para criar uma senha aleatória.
+    Opções Disponíveis
+    Site/Software: Nome do site ou software para o qual a senha está sendo gerada.
+    E-mail/Usuário: E-mail ou nome de usuário associado à senha.
+    Quantidade de caracteres: Escolha o comprimento desejado para a senha.
+    Tipos de Caracteres: Selecione os tipos de caracteres desejados (maiúsculas, minúsculas, números, caracteres especiais).
+    Após configurar suas opções, clique no botão "Gerar Senha" para criar uma senha aleatória.
 
 
 ## ✒️ Autor
