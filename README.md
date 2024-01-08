@@ -8,7 +8,7 @@ Siga estas instruções para obter uma cópia do projeto e executá-lo localment
 
 ### 🔧 Instalação
 1. Instale o Poetry em seu ambiente Python:
-
+   
     pip install poetry
 
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
