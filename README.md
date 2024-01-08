@@ -13,6 +13,7 @@ Poetry instalado na máquina
 
 ### 🔧 Instalação
 1. Instale o Poetry em seu ambiente Python:
+2. 
     pip install poetry
    
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
