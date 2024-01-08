@@ -22,7 +22,7 @@ Siga estas instruções para obter uma cópia do projeto e executá-lo localment
     poetry shell
     poetry install
 
-### 🔧 uso
+### ⚙️ uso
 
 Para executar o gerador de senha, use o seguinte comando:
 
