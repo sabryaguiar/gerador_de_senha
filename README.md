@@ -9,20 +9,20 @@ Siga estas instruções para obter uma cópia do projeto e executá-lo localment
 ### 🔧 Instalação
 1. Instale o Poetry em seu ambiente Python:
 
-  ```bash
-  pip install poetry
+    ```bash
+    pip install poetry
 
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
 
-  poetry init
-  poetry shell
-  poetry install
+    poetry init
+    poetry shell
+    poetry install
 
 ### 🔧 uso
 
 Para executar o gerador de senha, use o seguinte comando:
 
-  python gerador_de_password.py
+    python gerador_de_password.py
 
 
 ## O programa abrirá uma interface gráfica onde você poderá especificar as opções desejadas para a senha.
