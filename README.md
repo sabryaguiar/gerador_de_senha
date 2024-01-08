@@ -16,6 +16,7 @@ Poetry instalado na máquina
     pip install poetry
    
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
+
     poetry init
     poetry shell
     poetry install
