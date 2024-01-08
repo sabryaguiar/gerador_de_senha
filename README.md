@@ -6,13 +6,16 @@ Um sistema gerador de senha com uma interface gráfica simples.
 
 Siga estas instruções para obter uma cópia do projeto e executá-lo localmente para fins de teste.
 
+### Pré-requisitos
+
+Python instalado na máquina
+Poetry instalado na máquina
+
 ### 🔧 Instalação
 1. Instale o Poetry em seu ambiente Python:
-
     pip install poetry
    
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
-
     poetry init
     poetry shell
     poetry install
