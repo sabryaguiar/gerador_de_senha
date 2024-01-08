@@ -18,7 +18,6 @@ Siga estas instruções para obter uma cópia do projeto e executá-lo localment
    
 2 - Execute o comando abaixo para inicializar o ambiente virtual e instalar as dependências:
 
-    poetry init
     poetry shell
     poetry install
 
