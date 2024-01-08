@@ -8,8 +8,8 @@ Siga estas instruções para obter uma cópia do projeto e executá-lo localment
 
 ### Pré-requisitos
 
-Python instalado na máquina
-Poetry instalado na máquina
+    Python instalado na máquina
+    Poetry instalado na máquina
 
 ### 🔧 Instalação
 1 - Instale o Poetry em seu ambiente Python:
